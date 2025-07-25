@@ -1,0 +1,63 @@
+\begin{center}
+    \textbf{\Huge \scshape Mahak Rawat} \\ \vspace{2pt}
+    \normalsize B.Tech Civil Engineering | SHE Scholar | Open to Internships \\ \vspace{1pt}
+    \small 8439563160 $|$ 
+    \href{mailto:mahakrawat07@gmail.com}{\underline{mahakrawat07@gmail.com}} $|$ 
+    Uttarakhand
+\end{center}
+\section{Education}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Veer Madho Singh Bhandari Uttarakhand Technical University}{2022 -- Present}
+      {Bachelor of Technology in Civil Engineering}{}
+
+    \resumeSubheading
+      {SHE (Support for Higher Education) Program, Uttarakhand Govt.}{2021}
+      {Top 24 Rank Holder - Uttarakhand State Board}{Full scholarship awarded for academic excellence}
+
+    \resumeSubheading
+      {Intermediate (12th) – Uttarakhand Board}{2021}
+      {Percentage: 92.6\%}{}
+
+    \resumeSubheading
+      {High School (10th) – Uttarakhand Board}{2019}
+      {Percentage: 98\%}{}
+
+  \resumeSubHeadingListEnd
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {AutoCAD Internship – SmartEd Innovations (Paid)}{May 2024}
+      {Remote / Online}{}
+      \resumeItemListStart
+        \resumeItem{Learned AutoCAD basics through structured training sessions.}
+        \resumeItem{Faced difficulties managing end-semester exams and internet issues.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+\section{Projects}
+   \resumeSubHeadingListStart
+
+  \resumeProjectHeading
+      {\textbf{Canva Poster and Sticker Design Projects}}{}
+      \begin{itemize}[leftmargin=*, itemsep=2pt]
+        \item Created posters and digital creatives for multiple college and cultural events using Canva.
+        \item Designed social awareness stickers and banners for environmental and technical campaigns.
+      \end{itemize}
+
+   \resumeSubHeadingListEnd
+\section{Achievements}
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+  \item Selected for SHE Program by Uttarakhand Government (Rank 24 in State).
+  \item Finalist – Smart India Hackathon (SIH) Participant.
+  \item Participated in WWTSSF Hackathon and Environment Hackathon.
+\end{itemize}
+\section{Skills}
+\small{
+\textbf{Design Tools:} Canva (Posters, Stickers, Event Banners) \\
+\textbf{Software:} AutoCAD (Basic), Microsoft Word/Excel, Google Workspace \\
+\textbf{Programming:} Basic C Programming (learning stage) \\
+\textbf{Soft Skills:} Communication, Creativity, Team Collaboration, Presentation
+}
